@@ -1,5 +1,5 @@
 [package]
-name = "http_fetch"
+name = "web_fetch"
 version = "0.0.0"
 authors = ["Richard Anaya"]
 edition = "2018"
